@@ -1,5 +1,5 @@
 # Interrogazioni-Previsioni-Spark
-*Elisa Acciari VR478828 A.A. 2022/2023
+*Elisa Acciari A.A. 2022/2023
 Università degli Studi di Verona.*
 
 Interrogazioni in linguaggio pySpark di dati relativi agli inegressi delle VeronaCard e ai dati meteorologici di Verona. Infine si sviluppa un modello di classificazione Logistic Regression per prevedere le temperature e le precipitazioni future.
